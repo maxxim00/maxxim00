@@ -1,15 +1,4 @@
-<div align="center">
-</div>
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maxxim00.maxxim00&"  />
-</div>
-
-###
-
-<h1 align="center">Hi there 👋</h1>
+<h1 align="center">Hello, World!</h1>
 
 ###
 
@@ -17,11 +6,11 @@
 
 ###
 
-<p align="left">I'm maxim from Earth<br><br>-  I'm currently learning SDL2</p>
+<p align="left">Hello, I'm Maxxim from Earth. I'm currently exploring SDL2, mastering C, and delving into front-end web development. Join me on this journey of learning and creation.</p>
 
 ###
 
-<h3 align="left">Language and tools</h3>
+<h2 align="left">Language and tools:</h2>
 
 ###
 
@@ -43,12 +32,28 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="left">My Statistics :</h3>
 
 ###
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=maxxim00&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
+
+<div align="center">
+  <a href="https://www.youtube.com/channel/UCm8hhdpVSwiav81OLOgfUHQ" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="youtube logo"  />
+  </a>
+</div>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=maxxim00.maxxim00&left_color=darkslategray"  />
 </div>
 
 ###
