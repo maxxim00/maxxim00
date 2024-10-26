@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">Hello, I'm Maxxim from Earth. I'm currently exploring SDL2, mastering C, and delving into front-end web development. Join me on this journey of learning and creation.</p>
+<p align="left">Hello, I'm Maxxim from Earth. I'm currently exploring Rust, mastering C, and delving into front-end web development.</p>
 
 ###
 
@@ -17,7 +17,9 @@
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="40" alt="rust logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
