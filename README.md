@@ -1,4 +1,4 @@
-<h1 align="center">HELLO</h1>
+<h1 align="center">Hello,World!</h1>
 
 ###
 
@@ -6,7 +6,9 @@
 
 ###
 
-<p align="left">C</p>
+<p align="left">I specialize in C programming and am currently advancing my skills in SDL (Simple DirectMedia Layer). My focus is on developing robust applications and gaining a deeper understanding of game development principles.
+
+</p>
 
 ###
 
